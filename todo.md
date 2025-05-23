@@ -1,0 +1,30 @@
+# TODO List for Mon SIRH Mobile Flutter Project
+
+- [ ] Extract PDF requirements
+- [ ] Analyze requirements
+- [ ] Design project structure
+- [ ] Install Flutter SDK and dependencies
+- [X] Create base Flutter project (`flutter create`)
+- [X] Create project directories (models, services, providers, screens, widgets)
+- [X] Add dependencies to `pubspec.yaml`
+- [X] Run `flutter pub get`
+- [X] Create `models/user.dart`
+- [X] Create `models/conge.dart`
+- [X] Create `services/api_service.dart` (placeholder)
+- [X] Create `services/auth_service.dart` (placeholder)
+- [X] Create `providers/auth_provider.dart`
+- [X] Create `providers/conge_provider.dart`
+- [X] Create `screens/login_screen.dart`
+- [X] Create `screens/dashboard_screen.dart`
+- [X] Create `screens/fiche_employe_screen.dart`
+- [X] Create `screens/demandes_screen.dart`
+- [X] Create `screens/pdf_viewer_screen.dart`
+- [X] Create `screens/calendrier_screen.dart`
+- [X] Create `widgets/conge_card.dart`
+- [X] Create `widgets/stats_widget.dart`
+- [X] Update `main.dart` (routing, providers, initial log- [X] Implement Authentication (Login, JWT, Rol- [X] Implement Employee Profile Screen
+- [X] Implement Leave/Absence Request & Manageme- [X] Implement Document View- [X] Implement RH Dashboard (Stats, Calenda- [X] Implement Responsive Design
+- [X] Add Sample Data
+- [X] Validate project against specifications
+- [ ] Package project into ZIP file
+- [ ] Send ZIP file to user

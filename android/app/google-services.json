@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751693656378",
+    "project_id": "flutterproject-dda3c",
+    "storage_bucket": "flutterproject-dda3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751693656378:android:581dc27dc1c1d4e88ba003",
+        "android_client_info": {
+          "package_name": "com.example.mon_sirh_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRn4ieEj3FlWIE_rlwYB3jyIMCVA0LfRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
